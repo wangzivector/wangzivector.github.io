@@ -2539,6 +2539,9 @@ pre .javascript .function {
 .navbar .nav.nav-main .nav-item:nth-child(3) .nav-item-link::before {
   content: '\f174';
 }
+.navbar .nav.nav-main .nav-item:nth-child(3) .nav-item-link::before {
+  content: '\f136';
+}
 .navbar-bottom {
   position: absolute;
   bottom: 0;
