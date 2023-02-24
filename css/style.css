@@ -1286,7 +1286,7 @@ img {
 .video-media video,
 .video-media img {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   min-width: 100%;
@@ -1298,7 +1298,7 @@ img {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(178,191,204,0.6);
+  background-color: rgba(0,0,0,0.15);
 }
 .video-inner {
   position: absolute;
